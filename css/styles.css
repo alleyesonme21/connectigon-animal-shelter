@@ -1,18 +1,16 @@
 .header {
   border: 2px teal solid;
+  background-color: lightgrey;
   text-align: center;
 }
 
-.content {
-  margin-top: 20px;
-}
-
 .animal-listing {
+  display: inline-block;
   border: 2px orange solid;
   height: 500px;
   width: 400px;
   padding: 10px;
-  margin: 10px;
+  margin: 10px 80px;
   text-align: center;
 }
 
