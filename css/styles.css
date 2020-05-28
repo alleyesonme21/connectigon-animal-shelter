@@ -1,0 +1,25 @@
+.header {
+  border: 2px teal solid;
+  text-align: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.animal-listing {
+  border: 2px orange solid;
+  height: 500px;
+  width: 400px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.animal-listing img {
+  display: block;
+  width: 300px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
