@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a fictional animal shelter website we made for the Epicodus lesson Practice: Cascading. It incorporates the required elements of: 3-5 animal listings with pictures and descriptions, using "columns", nested selectors and cascading. You can view the website here: https://heyimmatt.github.io/animal-shelter_
+_This is a fictional animal shelter website we made for the Epicodus lesson Practice: Cascading. It incorporates the required elements of: 3-5 animal listings with pictures and descriptions, using "columns", nested selectors and cascading. You can view the website here: https://heyimmatt.github.io/connectigon-animal-shelter_
 
 ## Setup/Installation Requirements
 
